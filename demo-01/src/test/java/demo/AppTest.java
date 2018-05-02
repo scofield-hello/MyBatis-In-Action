@@ -1,7 +1,6 @@
 package demo;
 
 import static org.junit.Assert.assertNotEquals;
-import static org.junit.Assert.assertTrue;
 
 import com.mybatis.demo.mapper.UserMapper;
 import org.apache.ibatis.io.Resources;
@@ -32,8 +31,7 @@ public class AppTest {
     }
 
     @Test
-    public void testSetup()
-    {
+    public void testSetup(){
         assertNotEquals(sessionFactory, null);
     }
 
