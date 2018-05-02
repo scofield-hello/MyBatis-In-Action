@@ -1,12 +1,5 @@
 
-demo-01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+demo-01/target/
 *.iml
-demo-01/target/classes/com/mybatis/demo/mapper/UserMapper.class
-demo-01/.idea/compiler.xml
-demo-01/.idea/dictionaries/nick.xml
-demo-01/.idea/encodings.xml
-demo-01/.idea/inspectionProfiles/Project_Default.xml
-demo-01/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml
-demo-01/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml
-demo-01/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml
+demo-01/.idea/
 .DS_Store
